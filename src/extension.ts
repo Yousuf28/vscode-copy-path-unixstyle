@@ -30,7 +30,7 @@ function copyPathsToClipboardUnixStyle(copyPathType: CopyPathType, arg1: any, ar
 				path = vscode.workspace.asRelativePath(resource, false);
 			}
 			if (path) {
-				paths.push(isWindows ? path.replace(/\\/g, '/').replace(/^(\/[A-Za-z]):\//, '$1/') : path);
+				paths.push(isWindows ? path.replace(/\\/g, '/') : path);
 			}
 		}
 
