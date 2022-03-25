@@ -1,4 +1,4 @@
-# Copy Path (Unix Style)
+# Copy path for R in windows
 
 Copy Windows paths to clipboard to work in R programming Language.
 
