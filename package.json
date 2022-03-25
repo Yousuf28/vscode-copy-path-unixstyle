@@ -1,8 +1,8 @@
 {
 	"publisher": "yousuf28",
-	"name": "copy-path-unixstyle",
-	"displayName": "Copy Path (Unix Style)",
-	"description": "Copy Windows paths to clipboard in Unix/Linux/POSIX style",
+	"name": "Path-for-R",
+	"displayName": "Copy path for R in windows",
+	"description": "Copy Windows paths to clipboard to work on R programming Language",
 	"version": "1.0.1",
 	"license": "MIT",
 	"repository": {
