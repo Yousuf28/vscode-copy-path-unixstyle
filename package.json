@@ -3,7 +3,7 @@
 	"name": "Path-for-R",
 	"displayName": "Copy path for R in windows",
 	"description": "Copy Windows paths to clipboard to work on R programming Language",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
